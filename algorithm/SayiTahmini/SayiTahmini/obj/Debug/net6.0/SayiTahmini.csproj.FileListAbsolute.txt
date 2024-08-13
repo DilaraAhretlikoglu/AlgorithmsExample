@@ -1,0 +1,15 @@
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\SayiTahmini\SayiTahmini\bin\Debug\net6.0\SayiTahmini.exe
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\SayiTahmini\SayiTahmini\bin\Debug\net6.0\SayiTahmini.deps.json
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\SayiTahmini\SayiTahmini\bin\Debug\net6.0\SayiTahmini.runtimeconfig.json
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\SayiTahmini\SayiTahmini\bin\Debug\net6.0\SayiTahmini.dll
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\SayiTahmini\SayiTahmini\bin\Debug\net6.0\SayiTahmini.pdb
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\SayiTahmini\SayiTahmini\obj\Debug\net6.0\SayiTahmini.csproj.AssemblyReference.cache
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\SayiTahmini\SayiTahmini\obj\Debug\net6.0\SayiTahmini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\SayiTahmini\SayiTahmini\obj\Debug\net6.0\SayiTahmini.AssemblyInfoInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\SayiTahmini\SayiTahmini\obj\Debug\net6.0\SayiTahmini.AssemblyInfo.cs
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\SayiTahmini\SayiTahmini\obj\Debug\net6.0\SayiTahmini.csproj.CoreCompileInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\SayiTahmini\SayiTahmini\obj\Debug\net6.0\SayiTahmini.dll
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\SayiTahmini\SayiTahmini\obj\Debug\net6.0\refint\SayiTahmini.dll
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\SayiTahmini\SayiTahmini\obj\Debug\net6.0\SayiTahmini.pdb
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\SayiTahmini\SayiTahmini\obj\Debug\net6.0\SayiTahmini.genruntimeconfig.cache
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\SayiTahmini\SayiTahmini\obj\Debug\net6.0\ref\SayiTahmini.dll

@@ -1,0 +1,15 @@
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\SayiyiHarflerleYazdirma\SayiyiHarflerleYazdirma\bin\Debug\net6.0\SayiyiHarflerleYazdirma.exe
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\SayiyiHarflerleYazdirma\SayiyiHarflerleYazdirma\bin\Debug\net6.0\SayiyiHarflerleYazdirma.deps.json
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\SayiyiHarflerleYazdirma\SayiyiHarflerleYazdirma\bin\Debug\net6.0\SayiyiHarflerleYazdirma.runtimeconfig.json
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\SayiyiHarflerleYazdirma\SayiyiHarflerleYazdirma\bin\Debug\net6.0\SayiyiHarflerleYazdirma.dll
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\SayiyiHarflerleYazdirma\SayiyiHarflerleYazdirma\bin\Debug\net6.0\SayiyiHarflerleYazdirma.pdb
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\SayiyiHarflerleYazdirma\SayiyiHarflerleYazdirma\obj\Debug\net6.0\SayiyiHarflerleYazdirma.csproj.AssemblyReference.cache
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\SayiyiHarflerleYazdirma\SayiyiHarflerleYazdirma\obj\Debug\net6.0\SayiyiHarflerleYazdirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\SayiyiHarflerleYazdirma\SayiyiHarflerleYazdirma\obj\Debug\net6.0\SayiyiHarflerleYazdirma.AssemblyInfoInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\SayiyiHarflerleYazdirma\SayiyiHarflerleYazdirma\obj\Debug\net6.0\SayiyiHarflerleYazdirma.AssemblyInfo.cs
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\SayiyiHarflerleYazdirma\SayiyiHarflerleYazdirma\obj\Debug\net6.0\SayiyiHarflerleYazdirma.csproj.CoreCompileInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\SayiyiHarflerleYazdirma\SayiyiHarflerleYazdirma\obj\Debug\net6.0\SayiyiHarflerleYazdirma.dll
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\SayiyiHarflerleYazdirma\SayiyiHarflerleYazdirma\obj\Debug\net6.0\refint\SayiyiHarflerleYazdirma.dll
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\SayiyiHarflerleYazdirma\SayiyiHarflerleYazdirma\obj\Debug\net6.0\SayiyiHarflerleYazdirma.pdb
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\SayiyiHarflerleYazdirma\SayiyiHarflerleYazdirma\obj\Debug\net6.0\SayiyiHarflerleYazdirma.genruntimeconfig.cache
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\SayiyiHarflerleYazdirma\SayiyiHarflerleYazdirma\obj\Debug\net6.0\ref\SayiyiHarflerleYazdirma.dll

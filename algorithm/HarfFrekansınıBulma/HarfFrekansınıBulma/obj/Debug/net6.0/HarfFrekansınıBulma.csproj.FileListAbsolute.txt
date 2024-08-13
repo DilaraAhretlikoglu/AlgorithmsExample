@@ -1,0 +1,15 @@
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\HarfFrekansınıBulma\HarfFrekansınıBulma\obj\Debug\net6.0\HarfFrekansınıBulma.csproj.AssemblyReference.cache
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\HarfFrekansınıBulma\HarfFrekansınıBulma\obj\Debug\net6.0\HarfFrekansınıBulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\HarfFrekansınıBulma\HarfFrekansınıBulma\obj\Debug\net6.0\HarfFrekansınıBulma.AssemblyInfoInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\HarfFrekansınıBulma\HarfFrekansınıBulma\obj\Debug\net6.0\HarfFrekansınıBulma.AssemblyInfo.cs
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\HarfFrekansınıBulma\HarfFrekansınıBulma\obj\Debug\net6.0\HarfFrekansınıBulma.csproj.CoreCompileInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\HarfFrekansınıBulma\HarfFrekansınıBulma\bin\Debug\net6.0\HarfFrekansınıBulma.exe
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\HarfFrekansınıBulma\HarfFrekansınıBulma\bin\Debug\net6.0\HarfFrekansınıBulma.deps.json
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\HarfFrekansınıBulma\HarfFrekansınıBulma\bin\Debug\net6.0\HarfFrekansınıBulma.runtimeconfig.json
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\HarfFrekansınıBulma\HarfFrekansınıBulma\bin\Debug\net6.0\HarfFrekansınıBulma.dll
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\HarfFrekansınıBulma\HarfFrekansınıBulma\bin\Debug\net6.0\HarfFrekansınıBulma.pdb
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\HarfFrekansınıBulma\HarfFrekansınıBulma\obj\Debug\net6.0\HarfFrekansınıBulma.dll
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\HarfFrekansınıBulma\HarfFrekansınıBulma\obj\Debug\net6.0\refint\HarfFrekansınıBulma.dll
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\HarfFrekansınıBulma\HarfFrekansınıBulma\obj\Debug\net6.0\HarfFrekansınıBulma.pdb
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\HarfFrekansınıBulma\HarfFrekansınıBulma\obj\Debug\net6.0\HarfFrekansınıBulma.genruntimeconfig.cache
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\HarfFrekansınıBulma\HarfFrekansınıBulma\obj\Debug\net6.0\ref\HarfFrekansınıBulma.dll

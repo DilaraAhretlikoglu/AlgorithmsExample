@@ -1,0 +1,15 @@
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\BasamakSayisiBulma\BasamakSayisiBulma\bin\Debug\net6.0\BasamakSayisiBulma.exe
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\BasamakSayisiBulma\BasamakSayisiBulma\bin\Debug\net6.0\BasamakSayisiBulma.deps.json
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\BasamakSayisiBulma\BasamakSayisiBulma\bin\Debug\net6.0\BasamakSayisiBulma.runtimeconfig.json
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\BasamakSayisiBulma\BasamakSayisiBulma\bin\Debug\net6.0\BasamakSayisiBulma.dll
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\BasamakSayisiBulma\BasamakSayisiBulma\bin\Debug\net6.0\BasamakSayisiBulma.pdb
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\BasamakSayisiBulma\BasamakSayisiBulma\obj\Debug\net6.0\BasamakSayisiBulma.csproj.AssemblyReference.cache
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\BasamakSayisiBulma\BasamakSayisiBulma\obj\Debug\net6.0\BasamakSayisiBulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\BasamakSayisiBulma\BasamakSayisiBulma\obj\Debug\net6.0\BasamakSayisiBulma.AssemblyInfoInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\BasamakSayisiBulma\BasamakSayisiBulma\obj\Debug\net6.0\BasamakSayisiBulma.AssemblyInfo.cs
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\BasamakSayisiBulma\BasamakSayisiBulma\obj\Debug\net6.0\BasamakSayisiBulma.csproj.CoreCompileInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\BasamakSayisiBulma\BasamakSayisiBulma\obj\Debug\net6.0\BasamakSayisiBulma.dll
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\BasamakSayisiBulma\BasamakSayisiBulma\obj\Debug\net6.0\refint\BasamakSayisiBulma.dll
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\BasamakSayisiBulma\BasamakSayisiBulma\obj\Debug\net6.0\BasamakSayisiBulma.pdb
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\BasamakSayisiBulma\BasamakSayisiBulma\obj\Debug\net6.0\BasamakSayisiBulma.genruntimeconfig.cache
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\BasamakSayisiBulma\BasamakSayisiBulma\obj\Debug\net6.0\ref\BasamakSayisiBulma.dll

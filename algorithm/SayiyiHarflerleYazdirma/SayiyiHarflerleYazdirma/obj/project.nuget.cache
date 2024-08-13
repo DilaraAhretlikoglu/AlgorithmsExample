@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "l+pEiiBh/5LIcQz/YLCVD98URggd3EphOdGONmiMaRg8ODaYkJhJ4qt7c3f5W8f+w57LhIIM1ABPB9/FEvUGpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dilar\\OneDrive\\Masaüstü\\algorithm\\SayiyiHarflerleYazdirma\\SayiyiHarflerleYazdirma\\SayiyiHarflerleYazdirma.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dilar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\dilar\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\dilar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\dilar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

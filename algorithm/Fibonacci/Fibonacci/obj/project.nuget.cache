@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+y/avrajUG7NFVlRm/MhRU4rAPKRKtNqiqZJYLOBioew+zgxFskNf98uB7de7n2pcVRsgdO3VvjUfQqaWuXCUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dilar\\OneDrive\\Masaüstü\\2.SINIF\\Nesneye Yönelik Programlama LAB\\Fibonacci\\Fibonacci\\Fibonacci.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dilar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\dilar\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\dilar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\dilar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

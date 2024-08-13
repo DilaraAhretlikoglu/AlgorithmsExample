@@ -1,0 +1,15 @@
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\DizideTekrarEdenElemanlar\DizideTekrarEdenElemanlar\bin\Debug\net6.0\DizideTekrarEdenElemanlar.exe
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\DizideTekrarEdenElemanlar\DizideTekrarEdenElemanlar\bin\Debug\net6.0\DizideTekrarEdenElemanlar.deps.json
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\DizideTekrarEdenElemanlar\DizideTekrarEdenElemanlar\bin\Debug\net6.0\DizideTekrarEdenElemanlar.runtimeconfig.json
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\DizideTekrarEdenElemanlar\DizideTekrarEdenElemanlar\bin\Debug\net6.0\DizideTekrarEdenElemanlar.dll
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\DizideTekrarEdenElemanlar\DizideTekrarEdenElemanlar\bin\Debug\net6.0\DizideTekrarEdenElemanlar.pdb
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\DizideTekrarEdenElemanlar\DizideTekrarEdenElemanlar\obj\Debug\net6.0\DizideTekrarEdenElemanlar.csproj.AssemblyReference.cache
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\DizideTekrarEdenElemanlar\DizideTekrarEdenElemanlar\obj\Debug\net6.0\DizideTekrarEdenElemanlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\DizideTekrarEdenElemanlar\DizideTekrarEdenElemanlar\obj\Debug\net6.0\DizideTekrarEdenElemanlar.AssemblyInfoInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\DizideTekrarEdenElemanlar\DizideTekrarEdenElemanlar\obj\Debug\net6.0\DizideTekrarEdenElemanlar.AssemblyInfo.cs
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\DizideTekrarEdenElemanlar\DizideTekrarEdenElemanlar\obj\Debug\net6.0\DizideTekrarEdenElemanlar.csproj.CoreCompileInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\DizideTekrarEdenElemanlar\DizideTekrarEdenElemanlar\obj\Debug\net6.0\DizideTekrarEdenElemanlar.dll
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\DizideTekrarEdenElemanlar\DizideTekrarEdenElemanlar\obj\Debug\net6.0\refint\DizideTekrarEdenElemanlar.dll
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\DizideTekrarEdenElemanlar\DizideTekrarEdenElemanlar\obj\Debug\net6.0\DizideTekrarEdenElemanlar.pdb
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\DizideTekrarEdenElemanlar\DizideTekrarEdenElemanlar\obj\Debug\net6.0\DizideTekrarEdenElemanlar.genruntimeconfig.cache
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\DizideTekrarEdenElemanlar\DizideTekrarEdenElemanlar\obj\Debug\net6.0\ref\DizideTekrarEdenElemanlar.dll

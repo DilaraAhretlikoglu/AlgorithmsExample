@@ -1,0 +1,15 @@
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\BubbleSortAlgoritması\BubbleSortAlgoritması\bin\Debug\net6.0\BubbleSortAlgoritması.exe
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\BubbleSortAlgoritması\BubbleSortAlgoritması\bin\Debug\net6.0\BubbleSortAlgoritması.deps.json
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\BubbleSortAlgoritması\BubbleSortAlgoritması\bin\Debug\net6.0\BubbleSortAlgoritması.runtimeconfig.json
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\BubbleSortAlgoritması\BubbleSortAlgoritması\bin\Debug\net6.0\BubbleSortAlgoritması.dll
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\BubbleSortAlgoritması\BubbleSortAlgoritması\bin\Debug\net6.0\BubbleSortAlgoritması.pdb
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\BubbleSortAlgoritması\BubbleSortAlgoritması\obj\Debug\net6.0\BubbleSortAlgoritması.csproj.AssemblyReference.cache
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\BubbleSortAlgoritması\BubbleSortAlgoritması\obj\Debug\net6.0\BubbleSortAlgoritması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\BubbleSortAlgoritması\BubbleSortAlgoritması\obj\Debug\net6.0\BubbleSortAlgoritması.AssemblyInfoInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\BubbleSortAlgoritması\BubbleSortAlgoritması\obj\Debug\net6.0\BubbleSortAlgoritması.AssemblyInfo.cs
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\BubbleSortAlgoritması\BubbleSortAlgoritması\obj\Debug\net6.0\BubbleSortAlgoritması.csproj.CoreCompileInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\BubbleSortAlgoritması\BubbleSortAlgoritması\obj\Debug\net6.0\BubbleSortAlgoritması.dll
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\BubbleSortAlgoritması\BubbleSortAlgoritması\obj\Debug\net6.0\refint\BubbleSortAlgoritması.dll
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\BubbleSortAlgoritması\BubbleSortAlgoritması\obj\Debug\net6.0\BubbleSortAlgoritması.pdb
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\BubbleSortAlgoritması\BubbleSortAlgoritması\obj\Debug\net6.0\BubbleSortAlgoritması.genruntimeconfig.cache
+C:\Users\dilar\OneDrive\Masaüstü\algorithm\BubbleSortAlgoritması\BubbleSortAlgoritması\obj\Debug\net6.0\ref\BubbleSortAlgoritması.dll
